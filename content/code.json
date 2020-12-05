@@ -1,0 +1,4 @@
+{
+  "code": "public static void main(String[] args) {\n    SpringApplication.run(CodeSharingPlatform.class, args);\n}",
+  "date": "2020/01/01 12:00:03"
+}
